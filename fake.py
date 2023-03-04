@@ -38,7 +38,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   CHOOSE OPTION >>>\033[1;37m ')
     if opt == '1':
-        os.system('xdg-open https/m.me/xayan.2k3)
+        os.system('xdg-open https://www.facebook.com/xayan.2k3?mibextid=ZbWKwL')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
